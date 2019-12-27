@@ -45,7 +45,7 @@
             return Object.prototype.hasOwnProperty.call(e, t)
         }
         ,
-        t.p = "https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/truck/emptyContainer/1.0.2/",
+        t.p = "https://panxingxiang.github.io/test/",
         t(t.s = 10)
     }([function(e, t, n) {
         n(6);
